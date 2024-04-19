@@ -1,0 +1,11 @@
+{
+  "description": "Jaideep's Prettier config",
+  "license": "MIT",
+  "main": "index.json",
+  "name": "@jaideepghosh/prettier-config",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "https://github.com/jaideepghosh/prettier-config",
+  "version": "1.0.0"
+}
